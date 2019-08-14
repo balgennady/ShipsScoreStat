@@ -1,2 +1,1 @@
-WoT‚Μ¬Ρ‚π©‚κ‚ι‚ζ‚¤‚Ι‚·‚ιƒeƒXƒg
-NuGetƒpƒbƒP[ƒWuJson.NETv‚πg‚¤
+# Οξλσχενθε δΰννυ ξς ρεπβεπΰ Wargaming.com
